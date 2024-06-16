@@ -1,12 +1,12 @@
 # Efficient Ensemble Model for Facial Expression Recognition
-DS503 Machine Learning for Data Science Term Project - Group 5:
+DS503 Machine Learning for Data Science Term Project - Group 3:
 * Aghazadeh Mahsa
 * Devira Fania Ardelia
 * Fridlund Hampus
 * Natsagdorj Zuv-Uilst
 * Thoriq Dimas Ahmad
 
-Graduate School of Data Science, KAIST
+KAIST, Daejeon, South Korea
 
 # Running the Experiment
 * You can download the dataset [here](https://drive.google.com/uc?id=1TOiNfQdH8GVWcNBC9v_YktuwXCbdLuq-) and inside the ensembleFER.ipynb notebook
